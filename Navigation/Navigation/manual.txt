@@ -1,0 +1,20 @@
+Additional Keystrokes:
+
+‘ESC’ : To Exit;
+
+‘b’ : To show the bounding box;
+
+‘h’ : To hide the bounding box;
+
+‘w’ : go front;
+
+’s’ : go back;
+
+‘a’ : go left;
+
+‘d’ : go right;
+
+Mouse:
+	Left Click to Navigate in the scene;
+
+	Right Press to drag the meshes to anywhere;

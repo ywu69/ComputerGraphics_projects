@@ -1,0 +1,22 @@
+t -160 0 -50
+dragon
+t 200 0 -50
+r -90 0 1 0
+dragon
+t -80 -32 -290
+r 180 0 1 0
+turtle
+t 100 -32 -290
+r 90 0 1 0
+turtle
+t -97 0 280
+r 90 0 1 0
+hand
+t 97 0 280
+r -90 0 1 0
+hand
+t -55 0 280
+teapot
+t 55 0 280
+r 180 0 1 0
+teapot

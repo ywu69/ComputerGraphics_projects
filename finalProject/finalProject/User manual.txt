@@ -1,0 +1,29 @@
+If you want to run the code, just make sure change the file path to your local path at the beginning of the code. And then if you want to change to other meshes, you can change the file path in our UI.
+
+After final presentation, our group focus on building an user interface in our project, making users render any mesh by input its off file’s path. Also, our UI supports to move camera angle, change the thresholds of both contours and suggestive contours by keyboard. In addition, our UI also allow users change the line drawing model between contours and suggestive contours or show both of them at the same time.
+
+Here are the keystrokes using in our UI:
+
+‘w’ : To move inside of the scene;
+
+‘s’ : To move outside of the scene;
+
+‘a’ : To move left of the scene;
+
+‘d’ : To move right of the scene;
+
+‘o’ : To decrease the threshold of contours;
+
+‘p’ : To increase the threshold of contours;
+
+‘k’ : To decrease the threshold of suggestive contours;
+
+‘l’ : To increase the threshold of suggestive contours;
+
+‘c’ : Change the line drawing model to only show contours(default model);
+
+‘v’ : Change the line drawing model to only show suggestive contours;
+
+‘b’ : Change the line drawing model to both show contours and suggestive contours;
+
+‘ESC’ : To Exit;

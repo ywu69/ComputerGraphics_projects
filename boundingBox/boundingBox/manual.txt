@@ -1,0 +1,7 @@
+Additional Keystrokes:
+
+‘ESC’ : To Exit;
+
+‘b’ : To show the bounding box;
+
+‘q’ : To hide the bounding box;
